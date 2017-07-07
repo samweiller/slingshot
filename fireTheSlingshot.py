@@ -27,7 +27,7 @@ import os
 import subprocess
 
 os.system('clear')
-print('Preparing the slingshot.')
+print('Preparing the slingshote.')
 
 # this is the better, pythony way to list the TV shows
 # next(os.walk('/'))[1]
